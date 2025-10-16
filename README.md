@@ -1,8 +1,8 @@
 # P2P-ST
 
 ## Overview
-This repository contains the core implementation of **P2P-ST** for parcel-level remote sensing analysis. 
-It provides Python scripts for high-resolution crop fraction estimation and zonal statistics calculation.
+This repository contains the core implementation of Scale-Transform Method of Medium-Low Pixel Level to Parcel-Level
+Monitoring of Crop Land.
 
 **Note:** Before applying the P2P-ST code, input images **must** be preprocessed to:
 - unify spatial resolution,
